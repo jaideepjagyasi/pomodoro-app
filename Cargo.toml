@@ -1,0 +1,9 @@
+[package]
+name = "pomodoro"
+version = "1.0.0"
+edition = "2021"
+description = "A beautiful Pomodoro timer for Linux"
+
+[dependencies]
+crossterm = "0.28"
+ratatui = "0.29"
