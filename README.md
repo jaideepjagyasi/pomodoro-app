@@ -20,7 +20,7 @@ A minimalist, terminal-based Pomodoro timer built with Rust. Focus on your work 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-app.git
+   git clone https://github.com/jaideepjagyasi/pomodoro-app.git
    cd pomodoro-app
    ```
 
